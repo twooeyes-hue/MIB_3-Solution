@@ -1,0 +1,6 @@
+{
+  "name": "MIB3 VAG Coding Studio",
+  "description": "Professional engineering workstation and automated coding architecture suite for VAG MIB3 headunits (Audi, VW, Cupra, Skoda, Porsche). Features automated recipe deployment, 32-byte Long Coding matrix, SFD unlock tracker, adaptation channel batching, FEC/SWaP manager, and multi-tool exporters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
